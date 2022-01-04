@@ -5,7 +5,7 @@ import java.util.Map;
 import java.util.function.Predicate;
 import java.util.stream.Collectors;
 
-public class Trial {
+public class Trial {  
     public static void main(String[] args) {
         Map<Integer, String> map = new HashMap<>();
         map.put(1, "linode.com");
